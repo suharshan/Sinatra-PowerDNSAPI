@@ -1,0 +1,5 @@
+$adapter = 'mysql'
+$host = 'localhost'
+$username = 'root'
+$password = 'rockball12'
+$database = 'pdns'
